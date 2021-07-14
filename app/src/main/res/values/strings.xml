@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhoneApp</string>
+    <string name="add_phone">Add phone</string>
+    <string name="phones">Phones</string>
+    <string name="iphone">iPhone</string>
+    <string name="samsung">Samsung</string>
+    <string name="phone_name">Phone name:</string>
+    <string name="phone_features">Phone Features</string>
+</resources>
